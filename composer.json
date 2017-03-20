@@ -26,6 +26,10 @@
         {
             "type": "git",
             "url": "git@bitbucket.org:ioweb-dos/ime.git"
+        },
+        {
+        "type": "git",
+        "url": "git@github.com:IIP-Design/iip-deployment.git"
         }
     ],
     "require-dev": {
@@ -43,7 +47,8 @@
             "wpackagist-plugin/wordpress-importer": "0.6.3",
             "wpackagist-plugin/wp-pagenavi": "2.91",
             "wpackagist-plugin/translation-detector": "1.3.5",
-            "ioweb-dos/ime": "dev-master"
+            "ioweb-dos/ime": "dev-master",
+            "iip-design/iip-deployment": "dev-master"
         },
     "extra": {
         "dropin-paths": {
