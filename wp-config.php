@@ -87,4 +87,4 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 
 /** AUTOLOAD CLASSES */
-define('AUTOLOADER', __DIR__ . '/../vendor/autoload.php');
+//define('AUTOLOADER', __DIR__ . '/../vendor/autoload.php');
