@@ -52,7 +52,7 @@
     "wpackagist-plugin/wp-pagenavi": "2.91",
     "wpackagist-plugin/translation-detector": "1.3.5",
     "wpackagist-plugin/polylang-theme-strings": "3.3.2",
-    "ioweb-dos/ime": "dev-master#9e9ea09",
+    "ioweb-dos/ime": "dev-master",
     "iip-design/iip-deployment": "dev-master",
     "ioweb-dos/search-filter-pro": "dev-master"
   },
