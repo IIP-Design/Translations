@@ -45,7 +45,7 @@
     "humanmade/s3-uploads": "dev-master#508239b",
     "wpackagist-plugin/wordpress-mu-domain-mapping": "0.5.5.1",
     "wpackagist-plugin/google-apps-login": "2.10.5",
-    "wpackagist-plugin/polylang": "2.1.5"
+    "wpackagist-plugin/polylang": "2.1.5",
     "wpackagist-plugin/advanced-custom-fields": "4.4.11",
     "wpackagist-plugin/social-media-feather": "1.8.4",
     "wpackagist-plugin/wordpress-importer": "0.6.3",
