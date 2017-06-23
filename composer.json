@@ -30,6 +30,10 @@
     {
       "type": "git",
       "url": "git@bitbucket.org:ioweb-dos/search-filter-pro.git"
+    },
+    {
+      "type": "git",
+      "url": "git@bitbucket.org:ioweb-dos/relevanssi-premium.git"
     }
   ],
   "require-dev": {
@@ -51,7 +55,8 @@
     "wpackagist-plugin/mb-custom-taxonomy": "1.2",
     "ioweb-dos/ime": "dev-master",
     "iip-design/iip-deployment": "dev-master",
-    "ioweb-dos/search-filter-pro": "dev-master"
+    "ioweb-dos/search-filter-pro": "dev-master",
+    "ioweb-dos/relevanssi-premium": "dev-master"
   },
   "extra": {
     "dropin-paths": {
