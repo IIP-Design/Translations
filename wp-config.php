@@ -80,11 +80,14 @@ define( 'SUNRISE', 'on' );
 /** AUTOLOAD CLASSES */
 define('AUTOLOADER', __DIR__ . '/vendor/autoload.php');
 
+define('PLL_CACHE_HOME_URL', false);
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )
   define('ABSPATH', dirname(__FILE__) . '/');
+
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
