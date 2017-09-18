@@ -52,7 +52,7 @@
     "ioweb-dos/ime": "dev-master",
     "iip-design/iip-deployment": "dev-master",
     "ioweb-dos/search-filter-pro": "dev-master",
-    "wpackagist-plugin/google-analytics-for-wordpress": "6.2.3"
+    "wpackagist-plugin/ga-google-analytics": "20170731"
   },
   "extra": {
     "dropin-paths": {
