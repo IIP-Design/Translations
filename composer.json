@@ -51,7 +51,8 @@
     "wpackagist-plugin/mb-custom-taxonomy": "1.2.1",
     "ioweb-dos/ime": "dev-master",
     "iip-design/iip-deployment": "dev-master",
-    "ioweb-dos/search-filter-pro": "dev-master"
+    "ioweb-dos/search-filter-pro": "dev-master",
+    "wpackagist-plugin/google-analytics-for-wordpress": "6.2.3"
   },
   "extra": {
     "dropin-paths": {
