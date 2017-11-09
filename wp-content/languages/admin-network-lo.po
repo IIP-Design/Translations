@@ -1,0 +1,304 @@
+# Translation of WordPress - 4.7.x - Administration - Network Admin in Lao
+# This file is distributed under the same license as the WordPress - 4.7.x - Administration - Network Admin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-12 04:01:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: lo_LA\n"
+"Project-Id-Version: WordPress - 4.7.x - Administration - Network Admin\n"
+
+#. translators: %s: File size in kilobytes
+#: wp-admin/network/settings.php:312
+msgid "%s KB"
+msgstr "%s KB"
+
+#. translators: 1: wp-config.php
+#: wp-admin/includes/network.php:464
+msgid "This unique authentication key is also missing from your %s file."
+msgstr "​ຄີ​ຮັບ​ຮອງ(authentication key) ນີ້​ຫາຍ​ໄປ​ຈາກ​ຟາຍ %s ​ຂອງ​ທ່ານ."
+
+#. translators: 1: wp-config.php
+#: wp-admin/includes/network.php:470
+msgid "These unique authentication keys are also missing from your %s file."
+msgstr "​ຄີ​ຮັບ​ຮອງ(authentication key) ເຫຼົ່າ​ນີ້​ຫາຍ​ໄປ​ຈາກ​ຟາຍ %s ​ຂອງ​ທ່ານ."
+
+#. translators: %s: host name
+#: wp-admin/includes/network.php:248 wp-admin/includes/network.php:297
+msgid "The internet address of your network will be %s."
+msgstr "​ທີ່​ຢູ່​ອິນ​ເຕີ​ເນັດ​ຂອງ​ເຄື່ອ​ຂ່າຍ​ຂອງ​ທ່ານ​ຈ​ະ​ເປັນ %s."
+
+#: wp-admin/includes/network.php:203
+msgid "You cannot change this later."
+msgstr "​ທ່ານບໍ່​ສາ​ມາດ​ປ່ຽນ​ສິ່ງນີ້​ພາຍຫຼັງ​ໄດ້."
+
+#. translators: 1: mod_rewrite, 2: mod_rewrite documentation URL, 3: Google
+#. search for mod_rewrite
+#: wp-admin/includes/network.php:191
+msgid "If %1$s is disabled, ask your administrator to enable that module, or look at the <a href=\"%2$s\">Apache documentation</a> or <a href=\"%3$s\">elsewhere</a> for help setting it up."
+msgstr "ຖ້າ %1$s ຖືກ​ປິດ​ການ​ໃຊ້​ງານ ໃຫ້​ຖາມ​ຜູ້​ຄວບ​ຄຸມ​ຂອງ​ທ່ານ​ໃຫ້​ເປີດ​ໂມ​ດູນນັ້ນ ຫຼື ເບິ່ງ​ທີ່ <a href=\"%2$s\">ຄູ່​ມື Apache</a> ຫຼື <a href=\"%3$s\">​ບ່ອນ​ອື່ນໆ</a> ​ສຳ​ລັບ​ຄວາມ​ຊ່ວຍ​ເຫຼືອ​ໃນ​ການ​ຕັ້ງ​ຄ່ານັ້ນ."
+
+#. translators: %s: mod_rewrite
+#: wp-admin/includes/network.php:175
+msgid "Please make sure the Apache %s module is installed as it will be used at the end of this installation."
+msgstr "​ກະ​ລຸ​ນາ​ແນ່​ໃຈ​ວ່າ Apache ໂມ​ດູນ %s ຕິດ​ຕັ້ງ​ແລ້ວ​ເພາະ​ວ່າ​ລະ​ບົບ​ຕ້ອງ​ຕ້ອງ​ໃຊ້​ມັນ​ໃນ​ຕອນ​ຈົບ​ຂອງ​ການ​ຕິດ​ຕັ້ງ."
+
+#. translators: %s: mod_rewrite
+#: wp-admin/includes/network.php:182
+msgid "It looks like the Apache %s module is not installed."
+msgstr "ເບິ່ງ​ຄື​ຍັງ​ບໍ່​ມີ​ການ​ຕິດ​ຕັ້ງ Apache %s module"
+
+#. translators: %s: port number
+#: wp-admin/includes/network.php:125
+msgid "You cannot use port numbers such as %s."
+msgstr "ທ່ານບໍ່​ສາ​ມາດ​ໃຊ້ port numbers ​ເຊັ່ນ %s."
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:247
+msgid "Theme"
+msgstr "ທິມ"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:113
+msgctxt "user"
+msgid "Mark as Spam"
+msgstr "ໝາຍເປັນສະແປມ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:203
+msgctxt "site"
+msgid "Mark as Spam"
+msgstr "ໝາຍເປັນສະແປມ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:231
+#: wp-admin/network/site-info.php:177
+msgctxt "site"
+msgid "Registered"
+msgstr "ລົງທະບຽນແລ້ວ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:204
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:535
+msgctxt "site"
+msgid "Not Spam"
+msgstr "ບໍ່ແມ່ນສະແປມ"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:171
+msgctxt "user"
+msgid "Registered"
+msgstr "ລົງທະບຽນແລ້ວ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:531
+msgctxt "verb; site"
+msgid "Archive"
+msgstr "ຄັງເກັບ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:42
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:537
+#: wp-admin/network/site-info.php:188
+msgctxt "site"
+msgid "Spam"
+msgstr "ສະແປມ"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:293
+msgid "Enabled <span class=\"count\">(%s)</span>"
+msgid_plural "Enabled <span class=\"count\">(%s)</span>"
+msgstr[0] "ເປີດ​ການ​ໃຊ້​ງານ <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:573
+msgid "Visit Theme Site"
+msgstr "ເຂົ້າ​ເບິ່ງ​ເວັບ​ໄຊ​ທິມ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:230
+#: wp-admin/network/site-info.php:181
+msgid "Last Updated"
+msgstr "ອັບ​ເດດ​ຄັ້ງ​ສຸດ​ທ້າຍ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:41
+#: wp-admin/network/site-info.php:187
+msgid "Archived"
+msgstr "​ຄັງ​ເກັບ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:44
+#: wp-admin/network/site-info.php:191
+msgid "Mature"
+msgstr "​ເປັນ​ຜູ້​ໃຫຍ່"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:43
+#: wp-admin/network/site-info.php:189
+msgid "Deleted"
+msgstr "​ລຶບ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:529
+msgid "Unarchive"
+msgstr "​ອອກ​ຈາກ​ຄັງ​ເກັບ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:360
+msgid "Never"
+msgstr "ບໍ່​ເຄີຍ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:192
+msgid "No sites found."
+msgstr "ບໍ່​ພົບ​ເວັບ."
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:333
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:425
+msgid "Enable"
+msgstr "​ໃຊ້​ງານ"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:335
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:447
+msgid "Disable"
+msgstr "​ປິດ​ການ​ໃຊ້​ງານ"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:114
+msgctxt "user"
+msgid "Not Spam"
+msgstr "ຜູ້​ໃຊ້​ນີ້ບໍ່ແມ່ນສະແປມ"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:296
+msgid "Disabled <span class=\"count\">(%s)</span>"
+msgid_plural "Disabled <span class=\"count\">(%s)</span>"
+msgstr[0] "​ປິດ​ການ​ໃຊ້​ງານ <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:142
+msgid "Super Admin <span class=\"count\">(%s)</span>"
+msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
+msgstr[0] "ຜູ້​ຄວບ​ຄຸມ​ຂັ້ນ​ສູງ <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:335
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:447
+msgid "Network Disable"
+msgstr "ປິດ​ການ​ໃຊ້​ງານ​ເຄື່ອ​ຂ່າຍ"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:234
+msgid "No themes found."
+msgstr "ບໍ່​ເຫັນ​ທິມ."
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:541
+msgid "Broken Theme:"
+msgstr "​ທິມ​ທີ່​ເສຍ​ຫາຍ:"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:302
+msgid "Broken <span class=\"count\">(%s)</span>"
+msgid_plural "Broken <span class=\"count\">(%s)</span>"
+msgstr[0] " <span class=\"count\">(%s)</span> ເສຍ​ຫາຍ"
+
+#. translators: 1: a filename like .htaccess. 2: a file path.
+#: wp-admin/includes/network.php:539 wp-admin/includes/network.php:579
+msgid "Add the following to your %1$s file in %2$s, <strong>replacing</strong> other WordPress rules:"
+msgstr "​ເພີ່ມ​ຂໍ້​ຄວາມ​ເຫຼົ່າ​ນີ້​ໄປ​ທີ​ຟາຍ %1$s ​ໃນ %2$s, <strong>​ແທນ</strong> ​ກົດ​ເວີດ​ເພ​ສ​ອື່ນໆ:"
+
+#: wp-admin/network/index.php:36
+msgid "To add a new user, <strong>click Create a New User</strong>."
+msgstr "ເພື່ອເພີ່ມຜູ້ໃຊ້ໃໝ່ <strong>ກົດສ້າງຜູ້ໃຊ້ໃໝ່</strong>"
+
+#: wp-admin/includes/network.php:594
+msgid "Once you complete these steps, your network is enabled and configured. You will have to log in again."
+msgstr "​ເມື່ອ​ທ່ານ​ເຮັດ​ຂັ້ນ​ຕອນ​ເຫຼົ່າ​ນີ້​ສຳ​ເລັດ, ເຄື່ອ​ຂ່າຍ​ຂອງ​ທ່ານ​ຈະ​ເປີດ​ໃຊ້​ງານ ແລະ ຕັ້ງ​ຄ່າ​​ໄວ້​ຮຽບ​ຮ້ອຍ​ແລ້ວ. ທ່ານ​ຈະ​ຕ້ອງ​ເຂົ້າ​ສູ່​ລະ​ບົບ​ອີກ​ຄັ້ງ."
+
+#: wp-admin/includes/network.php:475
+msgid "To make your installation more secure, you should also add:"
+msgstr "​ເພື່ອ​ໃຫ້​ການ​ຕິດ​ຕັ້ງ​ຂອງ​ທ່ານ​ປອດ​ໄພຫຼາຍ​ຂຶ້ນ, ທ່ານ​ຄວນ​ຈະ​ເພີ່ມ:"
+
+#: wp-admin/includes/network.php:385
+msgid "Enabling the Network"
+msgstr "ເປີດ​ໃຊ້​ງານ​ເຄື່ອ​ຂ່າຍ"
+
+#: wp-admin/includes/network.php:386
+msgid "Complete the following steps to enable the features for creating a network of sites."
+msgstr "ເຮັດ​ຕາມ​ຂັ້ນ​ຕອນ​ໃຫ້​ສຳ​ເລັດ​ເພື່ອ​ເປີດ​ໃຊ້​ງານ​ຄຳ​ສັ່ງ​ສ້າງ​ເຄື່ອ​ຂ່າຍ."
+
+#: wp-admin/includes/network.php:374
+msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
+msgstr "ກະ​ລຸ​ນາ​ປະ​ຕິ​ບັດ​ຂັ້ນ​ຕອນ​ການ​ປັບ​ແຕ່ງ​ໃຫ້​ຈົບ. ເພື່ອ​ສ້າງ​ເຄື່ອ​ຂ່າຍ​ໃໝ່ ທ່ານ​ຈະ​ຕ້ອງ​ລ້າງ​ຄ່າ ຫຼື ລຶບ​ຕາ​ຕະ​ລາງ​ຖານ​ຂໍ້​ມູນ​ເຄື່ອ​ຂ່າຍ."
+
+#: wp-admin/includes/network.php:304 wp-admin/network/settings.php:105
+msgid "Network Title"
+msgstr "ຫົວ​ຂໍ້​ເຄື່ອ​ຂ່າຍ"
+
+#: wp-admin/includes/network.php:308
+msgid "What would you like to call your network?"
+msgstr "​ທ່ານ​ຢາກ​ເອີ້ນ​ເຄື່ອ​ຂ່າຍນີ້​ວ່າ​ແນວ​ໃດ?"
+
+#: wp-admin/includes/network.php:317
+msgid "Your email address."
+msgstr "​ທີ່​ຢູ່​ອີ​ເມວ​ຂອງ​ທ່ານ."
+
+#: wp-admin/includes/network.php:368
+msgid "The original configuration steps are shown here for reference."
+msgstr "ຂັ້ນ​ຕອນ​ການ​ປັບ​ແຕ່ງ​ເລີ່ມ​ຕົ້ນ​ຖືກ​ສະ​ແດງ​ບ່ອນນີ້​ເພື່ອ​ການ​ອ້າງ​ອີງ."
+
+#: wp-admin/includes/network.php:373
+msgid "An existing WordPress network was detected."
+msgstr "ກວດ​ພົບ​ວ່າ​ມີ​ເຄື່ອ​ຂ່າຍເວີດ​ເພ​ສ​ຢູ່​ແລ​້ວ."
+
+#: wp-admin/includes/network.php:256
+msgid "Network Details"
+msgstr "​ລາຍ​ລະ​ອ​ຽດ​ເຄື່ອ​ຂ່າຍ"
+
+#: wp-admin/includes/network.php:234 wp-admin/includes/network.php:244
+#: wp-admin/includes/network.php:293
+msgid "Server Address"
+msgstr "​ທີ່​ຢູ່​ເຊີບ​ເວີ"
+
+#. translators: 1: hostname
+#: wp-admin/includes/network.php:211
+msgctxt "subdomain examples"
+msgid "like <code>site1.%1$s</code> and <code>site2.%1$s</code>"
+msgstr "​ເຊັ່ນ <code>site1.%1$s</code> ​ແລະ <code>site2.%1$s</code>"
+
+#. translators: 1: hostname
+#: wp-admin/includes/network.php:219
+msgctxt "subdirectory examples"
+msgid "like <code>%1$s/site1</code> and <code>%1$s/site2</code>"
+msgstr "​ເຊັ່ນ <code>%1$s/​ເວັບ1</code> ແລະ <code>%1$s/​ເວັບ2</code>"
+
+#: wp-admin/includes/network.php:201
+msgid "Addresses of Sites in your Network"
+msgstr "​ທີ່​ຢູ່​ເວັບ​ໃນ​ເຄື່​ອ​ຂ່າຍ​ຂອງ​ທ່ານ"
+
+#: wp-admin/includes/network.php:180 wp-admin/includes/network.php:229
+#: wp-admin/includes/network.php:270 wp-admin/includes/network.php:280
+msgid "Warning!"
+msgstr "​ຄຳ​ເຕືອນ"
+
+#: wp-admin/includes/network.php:161
+msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of WordPress sites. We will create configuration files in the next step."
+msgstr "​ຕື່ມ​ຂໍ້​ມູນ​ດ້ານ​ລຸ່ມ​ແລ້ວ​ທ່ານ​ຈະ​ເຂົ້າ​ສູ່​ການ​ສ້າງເຄື່ອ​ຂ່າຍ​ຂອງ​ເວີດ​ເພ​ສ. ເຮົາ​ຈະ​ສ້າງ​ຟາຍ​ປັບ​ແຕ່ງ​ໃນ​ຂັ້ນ​ຕອນ​ຕໍ່​ໄປ."
+
+#: wp-admin/includes/network.php:128
+msgid "Return to Dashboard"
+msgstr "ກັບ​ໄປ​ໜ້າ​ຄວບ​ຄຸມ"
+
+#: wp-admin/includes/network.php:140
+msgid "ERROR: The network could not be created."
+msgstr "​ຜິດ​ພາດ:ບໍ່​ສາ​ມາດ​ສ້າງ​ເຄື່ອ​ຂ່າຍ​ໄດ້."
+
+#: wp-admin/includes/network.php:160
+msgid "Welcome to the Network installation process!"
+msgstr "​ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ເຂົ້າ​ສູ່​ຂັ້ນ​ຕອນ​ການ​ຕິດ​ຕັ້ງ​ເຄື່ອ​ຂ່າຍ"
+
+#: wp-admin/includes/network.php:105
+msgid "The constant DO_NOT_UPGRADE_GLOBAL_TABLES cannot be defined when creating a network."
+msgstr "​​ຕົວແປ DO_NOT_UPGRADE_GLOBAL_TABLES ​ບໍ່​ສາ​ມາດ​ກຳ​ນົດ​ໄດ້​ເວ​ລາ​ກຳ​ລັງ​ສ້າງ​ເຄື່ອ​ຂ່າຍ."
+
+#: wp-admin/includes/network.php:113 wp-admin/includes/network.php:373
+#: wp-admin/includes/network.php:545 wp-admin/includes/network.php:585
+msgid "Warning:"
+msgstr "​ຄຳ​ເຕືອນ:"
+
+#: wp-admin/includes/network.php:113
+msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
+msgstr "​ກະ​ລຸ​ນາ <a href=\"%s\">​ປິດ​ການ​ໃຊ້​ງານ​ປັກ​ອິນ​ຂອງ​ທ່ານ</a> ​ກ່ອນ​ເປີດ​ໃຊ້​ງານ​ເຄື່ອ​ຂ່າຍ."
+
+#: wp-admin/includes/network.php:113
+msgid "Once the network is created, you may reactivate your plugins."
+msgstr "​ເມື່ອ​ສ້າງ​ເຄື່ອ​ຂ່າຍ​ແລ້ວ. ທ່ານ​ອາດ​ຈະ​ເປີດ​ໃຊ້​ງານ​ປັກ​ອິນ​ຂອງ​ທ່ານ​ອີກ​ຄັ້ງ."
+
+#: wp-admin/includes/network.php:122
+msgid "You cannot install a network of sites with your server address."
+msgstr "ທ່ານບໍ່​ສາ​ມາດ​ຕິ​ດ​ຕັ້ງ​ເຄື່ອ​ຂ່າຍ​ຂອງ​ເວັບ​ດ້ວຍ​ທີ່​ຢູ່​ເຊີບ​ເວີ​ຂອງ​ທ່ານ."
+
+#: wp-admin/includes/network.php:313 wp-admin/network/settings.php:112
+msgid "Network Admin Email"
+msgstr "​ອີ​ເມວ​ຜູ້​ຄວບ​ຄຸມ​ເຄື່ອ​ຂ່າຍ"
