@@ -21,7 +21,7 @@
     },
     {
       "type": "git",
-      "url": "git@bitbucket.org:ioweb-dos/ime.git"
+      "url": "git@github.com:IIP-Design/translations-theme.git"
     },
     {
       "type": "git",
@@ -29,7 +29,7 @@
     },
     {
       "type": "git",
-      "url": "git@bitbucket.org:ioweb-dos/search-filter-pro.git"
+      "url": "git@github.com:IIP-Design/search-filter-pro.git"
     }
   ],
   "require-dev": {
