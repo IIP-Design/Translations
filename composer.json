@@ -30,6 +30,9 @@
     {
       "type": "git",
       "url": "git@github.com:IIP-Design/search-filter-pro.git"
+    },
+    {  "type": "git",
+      "url": "git@github.com:humanmade/S3-Uploads.git"
     }
   ],
   "require-dev": {
@@ -50,6 +53,7 @@
     "wpackagist-plugin/meta-box": "4.11.2",
     "wpackagist-plugin/mb-custom-taxonomy": "1.2.1",
     "ioweb-dos/ime": "dev-master",
+    "humanmade/S3-Uploads": "dev-master",
     "iip-design/iip-deployment": "dev-master",
     "ioweb-dos/search-filter-pro": "dev-master",
     "wpackagist-plugin/ga-google-analytics": "20170731"
