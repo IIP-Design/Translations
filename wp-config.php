@@ -1,5 +1,8 @@
 <?php
 
+/** autoload files **/
+require_once(__DIR__ . '/vendor/autoload.php');
+
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
 define('DB_NAME', getenv('TRANS_DB_NAME'));
