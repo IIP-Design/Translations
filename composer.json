@@ -5,10 +5,10 @@
       "package": {
         "name": "wordpress",
         "type": "webroot",
-        "version": "5.1.1",
+        "version": "5.2.2",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/WordPress/WordPress/archive/5.1.1.zip"
+          "url": "https://github.com/WordPress/WordPress/archive/5.2.2.zip"
         },
         "require": {
           "fancyguy/webroot-installer": "1.1.0"
@@ -38,7 +38,7 @@
   "require-dev": {
   },
   "require": {
-    "wordpress": "5.1.1",
+    "wordpress": "5.2.2",
     "fancyguy/webroot-installer": "1.1.0",
     "koodimonni/composer-dropin-installer": "1.0",
     "wpackagist-plugin/add-to-any":"1.7.34",
