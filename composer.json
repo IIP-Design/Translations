@@ -5,10 +5,10 @@
       "package": {
         "name": "wordpress",
         "type": "webroot",
-        "version": "5.2.2",
+        "version": "5.4.2",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/WordPress/WordPress/archive/5.2.2.zip"
+          "url": "https://github.com/WordPress/WordPress/archive/5.4.2.zip"
         },
         "require": {
           "fancyguy/webroot-installer": "1.1.0"
@@ -31,34 +31,34 @@
       "type": "git",
       "url": "git@github.com:IIP-Design/search-filter-pro.git"
     },
-    {  "type": "git",
+    {
+      "type": "git",
       "url": "git@github.com:humanmade/S3-Uploads.git"
     }
   ],
-  "require-dev": {
-  },
+  "require-dev": {},
   "require": {
-    "wordpress": "5.2.2",
+    "wordpress": "5.4.2",
     "fancyguy/webroot-installer": "1.1.0",
     "koodimonni/composer-dropin-installer": "1.0",
-    "wpackagist-plugin/add-to-any":"1.7.34",
-    "wpackagist-plugin/advanced-custom-fields": "4.4.11",
-    "wpackagist-plugin/google-apps-login": "2.10.5",
-    "wpackagist-plugin/mb-custom-taxonomy": "1.2.1",
-    "wpackagist-plugin/meta-box": "4.11.2",
-    "wpackagist-plugin/polylang": "2.1.5",
-    "wpackagist-plugin/redirection": "4.2.1",
-    "wpackagist-plugin/social-media-feather": "1.8.4",
+    "wpackagist-plugin/add-to-any": "1.7.41",
+    "wpackagist-plugin/advanced-custom-fields": "5.8.12",
+    "wpackagist-plugin/google-apps-login": "3.4.2",
+    "wpackagist-plugin/mb-custom-taxonomy": "1.4.3",
+    "wpackagist-plugin/meta-box": "5.3.3",
+    "wpackagist-plugin/polylang": "2.7.4",
+    "wpackagist-plugin/redirection": "4.8",
+    "wpackagist-plugin/social-media-feather": "2.0.0",
     "wpackagist-plugin/translation-detector": "1.3.5",
-    "wpackagist-plugin/wordpress-importer": "0.6.3",
+    "wpackagist-plugin/wordpress-importer": "0.7",
     "wpackagist-plugin/wordpress-mu-domain-mapping": "0.5.5.1",
-    "wpackagist-plugin/wp-pagenavi": "2.91",
-    "wpackagist-plugin/polylang-theme-strings": "3.4",
-    "ioweb-dos/ime": "dev-master",
-    "humanmade/S3-Uploads": "dev-master",
+    "wpackagist-plugin/wp-pagenavi": "2.93.3",
+    "wpackagist-plugin/polylang-theme-strings": "4.0",
+    "iip-design/translations": "dev-master",
+    "humanmade/S3-Uploads": "2.2.2",
     "iip-design/iip-deployment": "dev-master",
     "ioweb-dos/search-filter-pro": "dev-master",
-    "wpackagist-plugin/ga-google-analytics": "20170731"
+    "wpackagist-plugin/ga-google-analytics": "20200325"
   },
   "extra": {
     "dropin-paths": {
